@@ -53,10 +53,10 @@ This repo is using Firebase with Provider. We use Cloud Firebase Auth and Fireba
 
 ## Creators
 
-**Ayush Kumar Singh**
+**Devadarshan K Sardar**
 
-- <https://github.com/ayushhsinghh>
-- <https://www.linkedin.com/in/ayushhsinghh/>
+- <https://github.com/devadarshansardar>
+
 
 ## Thanks
 
